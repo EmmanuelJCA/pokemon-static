@@ -6,7 +6,7 @@ export const Navbar: FC = () => {
     <NavbarN variant={"floating"}>
       <NavbarN.Brand>
         <Image 
-          src="pokeball.svg"
+          src="/pokeball.svg"
           alt="Icono de la app"
           width={70}
           height={70}
